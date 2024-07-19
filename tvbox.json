@@ -499,8 +499,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-	  "api": "https://raw.gitmirror.com/TZ-Apchy/shell-and-python/master/tvbox/lib/drpy2.min.js",
-      "ext": "https://raw.gitmirror.com/TZ-Apchy/shell-and-python/master/tvbox/lib/douyu.js"
+	  "api": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/douyu.js"
     },
 	{
       "key": "waiyuxuexi",
