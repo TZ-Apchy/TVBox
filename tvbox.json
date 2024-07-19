@@ -261,16 +261,6 @@
       "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/ceciyy.json"
     },
 	{
-      "key": "voflixys",
-      "name": "voflix影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/voflix.json"
-    },
-	{
       "key": "saohuo",
       "name": "骚火影视",
       "type": 3,
