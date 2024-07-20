@@ -4,43 +4,43 @@
       "key": "douban",
       "name": "远赴人间惊鸿宴，一睹人间盛世颜",
       "type": 3,
-      "api": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/douban.js"
+      "api": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/douban.js"
     },
 	{
       "key": "tengxun",
       "name": "腾讯(官)",
       "type": 3,
-      "api": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/tengxun.js"
+      "api": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/tengxun.js"
     },
 	{
       "key": "aiqiyi",
       "name": "爱奇艺(官)",
       "type": 3,
-      "api": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/aiqiyi.js"
+      "api": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/aiqiyi.js"
     },
     {
       "key": "youku",
       "name": "优酷(官)",
       "type": 3,
-      "api": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/youku.js"
+      "api": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/youku.js"
     },
     {
       "key": "mangguo",
       "name": "芒果(官)",
       "type": 3,
-      "api": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/mangguo.js"
+      "api": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/mangguo.js"
     },
 	{
       "key": "sougou",
       "name": "搜狗(官)",
       "type": 3,
-      "api": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/sougou.js"
+      "api": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/sougou.js"
     },
 	{
       "key": "jianpianyingshi",
@@ -50,15 +50,15 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/jianpian.js"
+      "api": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/jianpian.js"
     },
     {
       "key": "nanguayingshi",
       "name": "南瓜影视",
       "type": 3,
-      "api": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/nangua.js"
+      "api": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/nangua.js"
     },
 	{
       "key": "xingchenyingshi",
@@ -68,7 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/xcys.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/xcys.json"
     },
 	{
       "key": "yingshijia",
@@ -79,7 +79,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/yingshijia.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/yingshijia.json"
     },
 	{
       "key": "348dianyingshi",
@@ -89,7 +89,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/348.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/348.json"
     },
 	 {
       "key": "naifeizhongwenyingshi",
@@ -99,7 +99,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/nfzwys.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/nfzwys.json"
     },
 	{
       "key": "VIPyy",
@@ -109,7 +109,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/vipys.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/vipys.json"
     },
 	{
       "key": "dandanju",
@@ -119,7 +119,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/dandanju.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/dandanju.json"
     },
 	{
       "key": "qiyouyingshi",
@@ -129,7 +129,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/qiyou.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/qiyou.json"
     },
 	{
       "key": "xdys",
@@ -138,7 +138,7 @@
       "api": "csp_Wexxiongdiys",
       "searchable": 1,
       "changeable": 1,
-	  "jar": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/tz.jar"
+	  "jar": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/tz.jar"
     },
 	{
 	  "key":"changzhangyingshi",
@@ -150,7 +150,7 @@
 	  "quickSearch":1,
 	  "filterable":1,
 	  "ext":"https://czzy.top/",
-	  "jar": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/tz666.jar",
+	  "jar": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/tz666.jar",
 	  "categories": [
         "豆瓣电影Top250",
         "国产剧",
@@ -165,7 +165,7 @@
       "api": "csp_TTian",
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn",
-      "jar": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/jar.php"
+      "jar": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/jar.php"
     },
 	{
       "key": "shijueyingshi",
@@ -175,7 +175,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/xinshijue.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/xinshijue.json"
     },
 	{
       "key": "qixingyingshi",
@@ -185,8 +185,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/qxys.json",
-      "jar": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/HeChengChaXiu.jar"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/qxys.json",
+      "jar": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/HeChengChaXiu.jar"
     },
 	{
       "key": "haohuaziyuan",
@@ -227,8 +227,8 @@
 	  "key":"qizhenyingshi",
 	  "name":"奇珍影视",
 	  "type":3,
-	  "api":"https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
-	  "ext":"https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/qzys.js"
+	  "api":"https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
+	  "ext":"https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/qzys.js"
 	},
 	{
       "key": "kuaikanyingshi",
@@ -238,7 +238,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/wuwukan.json"
+	  "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/wuwukan.json"
     },
 	{
       "key": "naifeiyingshi",
@@ -248,7 +248,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/nfys.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/nfys.json"
     },
 	{
       "key": "ceciyingyuan",
@@ -258,7 +258,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/ceciyy.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/ceciyy.json"
     },
 	{
       "key": "saohuo",
@@ -284,56 +284,12 @@
          "三次跳转播放链接": "\"url\"*\"&&\""
        }
     },
-	{
-      "key": "heihuyingshi",
-      "name": "黑狐影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "playerType": "2",
-      "api": "csp_XBPQ",
-      "ext": 
-	  {
-        "站名": "黑狐影院",
-        "主页url": "http://fagmn.com",
-        "数组": "class=\"stui-vodlist__box\"&&</a",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-        "过滤词": "/hls/#php",
-        "副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
-        "搜索模式": "1",
-        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索后缀": "/view/",
-        "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
-        "线路标题": ">&&<",
-        "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-        "状态": "地区：&&</p>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "简介：&&</div>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "免嗅": "0",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-        "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
-      }
-    },
     {
       "key": "changmengyingshi",
       "name": "畅梦影视",
       "type": 3,
-      "api": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/changmeng.js"
+      "api": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/changmeng.js"
     },
 	{
       "key": "huohuyingshi",
@@ -483,14 +439,109 @@
 	  ]
 	},
 	{
+      "key": "lgdyw",
+      "name": "蓝光电影网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/languangdianyingwang.json",
+	  "jar": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/Yoursmile.jar"
+    },
+	{
+      "key": "baipiaoyingshi",
+      "name": "白嫖影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/baipiaoyingshi.json",
+	  "jar": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/Yoursmile.jar"
+    },
+	{
+      "key": "dyxs",
+      "name": "电影先生",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/dianyingxiansheng.json",
+	  "jar": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/Yoursmile.jar"
+    },
+	{
+      "key": "hmys",
+      "name": "河马影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/hemayingshi.json",
+	  "jar": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/Yoursmile.jar"
+    },
+	{
+      "key": "TVByb",
+      "name": "TVB云播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/TVByunbo.json",
+	  "jar": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/Yoursmile.jar"
+    },
+	{
+      "key": "shengchengyingshi",
+      "name": "圣城影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/shengchengyingshi.json",
+	  "jar": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/Yoursmile.jar"
+    },
+	{
+      "key": "kekeyingshi",
+      "name": "可可影视",
+      "type": 3,
+      "api": "csp_Keke",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "jar": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
+    },
+	{
+      "key": "Aueteyingshi",
+      "name": "Auete影视",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 15,
+      "ext": "https://auete.pro/",
+      "jar": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+    },
+	{
       "key": "huyazhibo",
       "name": "虎牙直播",
       "type": 3,
-      "api": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
+      "api": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/huyazhibo.js"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/huyazhibo.js"
     },
 	{
       "key": "doyuzhibo",
@@ -499,8 +550,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-	  "api": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/douyu.js"
+	  "api": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/douyu.js"
     },
 	{
       "key": "waiyuxuexi",
@@ -510,7 +561,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/waiyu.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/waiyu.json"
     },
 	{
       "key": "jiaoyukecheng",
@@ -520,17 +571,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/Blixt.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/Blixt.json"
     },
-    {
+	{
       "key": "bilidaquan",
       "name": "哔哩大全",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/bilibili.json"
+    },
+	{
+      "key": "短剧",
+      "name": "短剧大全",
+      "type": 3,
+      "api": "csp_Djtt",
+      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/Bili.json"
+      "changeable": 1,
+	  "jar": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/chenruihe.jar;md5;2C656EA3596DF85712AB9839689AED16"
     },
     {
       "key": "xiaopin",
@@ -540,7 +601,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/Blixs.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/Blixs.json"
     },
     {
       "key": "xiqu",
@@ -550,7 +611,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/Blixq.json"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/Blixq.json"
     },
     {
       "key": "yancanghuizhan",
@@ -560,7 +621,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/yanchanghui.txt"
+      "ext": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/yanchanghui.txt"
     }
   ],
   "lives": [
@@ -984,10 +1045,10 @@
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com",
-	"https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/fty.jar"
+	"https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/fty.jar"
   ],
   "wallpaper": "https://bing.img.run/rand_uhd.php",
   "warningText": "Happy every day",
-  "spider": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
-  "spider": "https://raw.ixnic.net/TZ-Apchy/TVBox/main/lib/spider.jar"
+  "spider": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+  "spider": "https://raw.gitmirror.com/TZ-Apchy/TVBox/main/lib/spider.jar"
 }
